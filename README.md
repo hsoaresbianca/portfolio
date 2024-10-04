@@ -1,2 +1,2 @@
-# portfolio
-Portfólio Front-end do Zero com HTML, CSS e JavaScript.
+# Portfólio Front-end do Zero com HTML, CSS e JavaScript.
+⚠ Projeto em andamento ⚠
