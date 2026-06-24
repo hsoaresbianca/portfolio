@@ -241,8 +241,13 @@ article h2 {
   border-radius: 8px;
 }
 
+#projeto-container .descricao {
+  color: var(--destaque-inverso);
+}
+
 #projeto-container .descricao:hover {
   cursor: pointer;
+  color: var(--destaque);
 }
 
 #projeto-container .site {
