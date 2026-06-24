@@ -231,7 +231,6 @@ article h2 {
 #projeto-container .projeto:hover {
   border-color: var(--destaque);
   border-left-width: 15px;
-  cursor: pointer;
 }
 
 #projeto-container .foto{
@@ -240,6 +239,19 @@ article h2 {
   object-fit: cover;
   overflow: hidden;
   border-radius: 8px;
+}
+
+#projeto-container .descricao:hover {
+  cursor: pointer;
+}
+
+#projeto-container .site {
+  text-decoration: none;
+  color: var(--destaque-inverso);
+}
+
+#projeto-container .site:hover {
+  color: var(--destaque);
 }
 
 footer {
